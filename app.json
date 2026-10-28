@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "AriseFit",
+    "slug": "arisefit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "arisefit",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#080B14",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.arisefit.system"
+    },
+    "android": {
+      "package": "com.arisefit.system",
+      "adaptiveIcon": {
+        "backgroundColor": "#080B14"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
